@@ -1,0 +1,32 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Model files (can be large)
+*.pkl
+*.joblib
+
+# Node modules (for your React frontend)
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Logs
+*.log
