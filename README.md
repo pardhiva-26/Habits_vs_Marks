@@ -118,11 +118,3 @@ Runs on `http://localhost:5173`
   "predicted_exam_score": 78.35
 }
 ```
-
-### 🛠 Technologies used
--Python (Pandas, Scikit-learn, Matplotlib, Joblib)
--FastAPI
--React + Vite
--Git & GitHub
-
-
